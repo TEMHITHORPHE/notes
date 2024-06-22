@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 
 ## Basic Vite Starter project
 
-START: `npm run dev`
+INSTALL-DEPS: `npm/pmpn install`
+START: `npm/pmpn run dev`
